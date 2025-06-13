@@ -10,8 +10,8 @@ Committed to continuous learning and eager to explore new opportunities in the w
 
 ### 📊 GitHub Stats
 
-![Júnior Fernando GitHub Stats](https://github-readme-stats.vercel.app/api?username=júniorFernandojrf&show_icons=true&theme=radical&hide=issues&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=júniorFernandojrf&layout=compact&theme=radical)
+![Júnior Fernando GitHub Stats](https://github-readme-stats.vercel.app/api?username=juniorFernandojrf&show_icons=true&theme=radical&hide=issues&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorFernandojrf&layout=compact&theme=radical)
 
 ---
 
