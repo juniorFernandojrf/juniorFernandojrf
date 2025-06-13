@@ -1,10 +1,21 @@
-### 👋 Olá, eu sou o Júnior Fernando — Desenvolvedor Web
+### 👋 hello,  Júnior Fernando
+web developer | PHP & Laravel | Java & SpringBoot | Computer Sc. student 💻✨
+---
 
-💻 Desenvolvedor focado em aplicações web com PHP, especializado no framework **Laravel**. Apaixonado por transformar ideias em soluções digitais eficientes e escaláveis.
+💻 I currently work as a web application developer using PHP with emphasis on the Laravel framework, creating scalable and efficient solutions.
+Committed to continuous learning and eager to explore new opportunities in the world of technology.💡
+
+⭐ _“Where there is a mistake, there is a lesson. Where there is trouble, there is opportunity.”_
+---
+
+### 📊 GitHub Stats
+
+![Júnior Fernando GitHub Stats](https://github-readme-stats.vercel.app/api?username=júniorFernandojrf&show_icons=true&theme=radical&hide=issues&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=júniorFernandojrf&layout=compact&theme=radical)
 
 ---
 
-### 🚀 Tecnologias & Ferramentas
+### 🚀 Technologies & Tools
 
 <p>
   <img alt="PHP" title="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
@@ -20,20 +31,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-![Júnior Fernando GitHub Stats](https://github-readme-stats.vercel.app/api?username=juniorFernandojf&show_icons=true&theme=radical&hide=issues&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorFernandojf&layout=compact&theme=radical)
-
----
-
-### 📫 Vamos nos conectar?
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-linkedin/)
-- 🌐 [Portfólio](https://seuportfolio.com)
-- 📬 Email: seuemail@exemplo.com
-
----
-
-⭐ _“Código limpo e simples é sempre o melhor caminho.”_
